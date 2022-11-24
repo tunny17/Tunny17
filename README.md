@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 - Hi there 👋, I'm Tunji 
-- A Frontend Developer (React Js) working from Nigeria, Africa (https://tunny.netlify.app/  PORTFOLIO LINK)
+- A Frontend Developer (React Js) working from Nigeria, Africa
 - A year and a month experience as a Frontend Developer
 - I am currently praciticing my react skills in order to sharpen it before i move to redux
 - I'm looking to collaborate with designers to hardcode their designs and also with developers to build projects that solve real life problems or improve existing ideas
