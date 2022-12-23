@@ -24,18 +24,29 @@ Here are some ideas to get you started:
 - I'm looking to collaborate with designers to hardcode their designs and also with developers to build projects that solve real life problems or improve existing ideas
 - here's a link to some of my latest projects:
  -. portfolio (created with react) https://tunny.netlify.app/
+ 
  -. tunnymedia (a youtube replica created with react)  https://tunnymedia.netlify.app/
+ 
  -. react weather app = https://tunny-weatherapp.netlify.app/
+ 
  -. react joke generator - https://tunnyjokegenerator.netlify.app/
+ 
+ -. A Fashion Influencer's photo gallery - https://akinmade.netlify.app/
+ 
+ -. A live credit card - https://creditcarddemo.netlify.app/
+ 
+ -. An nft marketplace - https://tunnymarketplace.netlify.app/
+ 
+ -. A flood relief project that aggregates NGOs in Nigeria - https://tunnyfloodproject.netlify.app/
+ 
+
+
+
+
 
 
 
 - Email: tvnji01@gmail.com.
-
-
-
-
-
 
 
 <p align="center">
