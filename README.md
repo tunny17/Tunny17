@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 - I am currently praciticing my react skills in order to sharpen it before i move to next.js
 - I'm looking to collaborate with designers to hardcode their designs and also with developers to build projects that solve real life problems or improve existing ideas
 - here's a link to some of my latest projects:
-
-1. portfolio (created with react) https://tunny.netlify.app/
-2. tunnymedia (a youtube replica created with react)  https://tunnymedia.netlify.app/
+ -. portfolio (created with react) https://tunny.netlify.app/
+ -. tunnymedia (a youtube replica created with react)  https://tunnymedia.netlify.app/
+ -. react weather app = https://tunny-weatherapp.netlify.app/
+ -. react joke generator - https://tunnyjokegenerator.netlify.app/
 
 
 
