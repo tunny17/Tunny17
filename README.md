@@ -19,14 +19,15 @@ Here are some ideas to get you started:
 
 - Hi there 👋, I'm Adetunji Adeyemi
 - A Frontend Developer (React Js) working from Nigeria, Africa  
-- A year and a month experience as a Frontend Developer (https://tunny.netlify.app/)
-- I am currently praciticing my react skills in order to sharpen it before i move to redux
+- A year and three months experience as a Frontend Developer
+- I am currently praciticing my react skills in order to sharpen it before i move to next.js
 - I'm looking to collaborate with designers to hardcode their designs and also with developers to build projects that solve real life problems or improve existing ideas
-- I am also lookng for help with understanding redux
-- Hobbies:
-  - Baskteball
-  - Web Design
-  - Playing the piano
+- here's a link to some of my latest projects:
+
+1. portfolio (created with react) https://tunny.netlify.app/
+2. tunnymedia (a youtube replica created with react)  https://tunnymedia.netlify.app/
+
+
 
 - Email: tvnji01@gmail.com.
 
