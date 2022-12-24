@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Hi there 👋, I'm Adetunji Adeyemi
 - A Frontend Developer (React Js) working from Nigeria, Africa  
 - A year and three months experience as a Frontend Developer
-- I am currently praciticing my react skills in order to sharpen it before i move to next.js
+- I am currently learning typescript.
 - I'm looking to collaborate with designers to hardcode their designs and also with developers to build projects that solve real life problems or improve existing ideas
 - here's a link to some of my latest projects :
 
