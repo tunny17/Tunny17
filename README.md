@@ -55,7 +55,6 @@
 
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tunny17&show_icons=true&locale=en" alt="tunny17" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tunny17&" alt="tunny17" /></p>
+![](https://github-readme-stats.vercel.app/api?username=tunny17&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tunny17&theme=dark&hide_border=true)<br/>
 
