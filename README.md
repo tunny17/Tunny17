@@ -1,27 +1,6 @@
 <h1 align="left">Hey, I'm Tunji.</h1>
 <h4 align="left">I live in Nigeria, I like music, good food, basketball and coding.</h4>
 
-- 🔭 I’m currently working on [a fullstack ecommerce website](https://github.com/tunny17/tunnystore)
-
-- 👨‍💻 All of my projects are available at [https://tunny.netlify.app/](https://tunny.netlify.app/)
-
-- 📫 How to reach me **tvnji01@gmail.com**
-
-
-<h2>My Favourite Repos</h2>
-
-- <a href="https://tunny.netlify.app/"> My Portfolio</a>
-
-- <a href="https://akinmade.netlify.app/"> Akinmade's Photo gallery</a>
-
-- <a href="https://tunny-weatherapp.netlify.app/"> A weather app</a>
-
-- <a  href="https://tunnymedia.netlify.app/"> My version of youtube</a>
-
-- <a  href="https://tunnymarketplace.netlify.app/"> nft marketplace</a>
-
-
-
 ## Connect with me  
 <div align="center">
 <a href="[https://github.com/rishavanand](https://github.com/tunny17)" target="_blank">
@@ -31,6 +10,10 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+
+
+
   
 
 ## My Skill Set  
@@ -55,11 +38,20 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
   
-  
-  
-  
-  
-  
+<h2>My Favourite Repos</h2>
+
+- <a href="https://tunny.netlify.app/"> My Portfolio</a>
+
+- <a href="https://akinmade.netlify.app/"> Akinmade's Photo gallery</a>
+
+- <a href="https://tunny-weatherapp.netlify.app/"> A weather app</a>
+
+- <a  href="https://tunnymedia.netlify.app/"> My version of youtube</a>
+
+- <a  href="https://tunnymarketplace.netlify.app/"> nft marketplace</a>
+
+
+
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tunny17&show_icons=true&locale=en" alt="tunny17" /></p>
