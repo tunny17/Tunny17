@@ -40,15 +40,19 @@
   
 <h2>My Favourite Repos</h2>
 
-- <a href="https://tunny.netlify.app/"> My Portfolio</a>
+- <a href="https://tunny.netlify.app/"> portfolio</a>  - my portfolio made with react
 
-- <a href="https://akinmade.netlify.app/"> Akinmade's Photo gallery</a>
+- <a href="https://akinmade.netlify.app/"> photo gallery</a>  - akinmade's fashion gallery
 
-- <a href="https://tunny-weatherapp.netlify.app/"> A weather app</a>
+- <a href="https://tunny-weatherapp.netlify.app/"> weather app</a>  - a react weather app
 
-- <a  href="https://tunnymedia.netlify.app/"> My version of youtube</a>
+- <a  href="https://tunnymedia.netlify.app/"> tunnytube</a> - my very own replica of youtube
+  
+- <a href="https://tunnybookstore.netlify.app/"> bookstore </a>   - a bookstore made using react and a local api
 
-- <a  href="https://tunnymarketplace.netlify.app/"> nft marketplace</a>
+- <a  href="https://tunnymarketplace.netlify.app/"> nft marketplace</a> - a frontend template for an nft marketplace
+  
+- <a  href="https://borderlessqh.netlify.app/"> borderless </a> - a landing page for borderlesshq
 
 
 
