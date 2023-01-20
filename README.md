@@ -7,6 +7,21 @@
 
 - 📫 How to reach me **tvnji01@gmail.com**
 
+
+<h2>My Favourite Repos</h2>
+
+- <a href="https://tunny.netlify.app/"> My Portfolio</a>
+
+- <a href="https://akinmade.netlify.app/"> Akinmade's Photo gallery</a>
+
+- <a href="https://tunny-weatherapp.netlify.app/"> A weather app</a>
+
+- <a  href="https://tunnymedia.netlify.app/"> My version of youtube</a>
+
+- <a  href="https://tunnymarketplace.netlify.app/"> nft marketplace</a>
+
+
+
 ## Connect with me  
 <div align="center">
 <a href="[https://github.com/rishavanand](https://github.com/tunny17)" target="_blank">
