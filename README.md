@@ -57,5 +57,4 @@
 
   ![](https://github-readme-stats.vercel.app/api?username=tunny17&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/> 
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast)](https://git.io/streak-stats)
 
