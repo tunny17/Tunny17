@@ -37,9 +37,7 @@
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>
 <h3>
-  Here is my  <a href="https://docs.google.com/file/d/11V7Ge0x6a8ALjSCJDifR3l-uqw7KThhu/edit?usp=docslist_api&filetype=msword"> portfolio</a>Resume 
-
-- <a 
+  Here is my  <a href="https://docs.google.com/file/d/11V7Ge0x6a8ALjSCJDifR3l-uqw7KThhu/edit?usp=docslist_api&filetype=msword"> Resume</a> 
  </h3>
 <h2>My Favourite Repos</h2>
 
