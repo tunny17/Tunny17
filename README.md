@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning about Typescript and it's applications.
 
-- 🤝 I’m available for freelancing.
+- 🤝 I’m available to work/collaborate.
 
 - 💬 Ask me about **Reactjs & NextJs**
 
