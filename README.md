@@ -56,23 +56,23 @@
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>
 
-<h2>My Favourite Repos</h2>
+<h2>My Favourite Projects</h2>
 
-- <a href="https://tunny.netlify.app/"> portfolio</a>  - my portfolio 
+- <a href="https://tunny.netlify.app/"> portfolio</a>  - My Portfolio
 
-- <a href="https://akinmade.netlify.app/"> photo gallery</a>  - akinmade's fashion gallery
+- <a href="https://shopmora-co.netlify.app/"> ShopMora </a> - A Fashion Store made with ReactJs
 
-- <a href="https://github.com/tunny17/cryptoverse"> cryptoverse</a>  - a website for the upadate on different cryptocurrencies.
+- <a href="https://akinmade.netlify.app/"> photo gallery</a>  - A Simple Photo-Gallery
 
-- <a  href="https://tunnymedia.netlify.app/"> tunnytube</a> - my very own replica of youtube
+- <a href="https://github.com/tunny17/ecommerce-store"> tunnystore </a>   - A Fullstack NextJs Ecommerce App.
+
+- <a href="https://github.com/tunny17/cryptoverse"> cryptoverse</a>  - A ReactJs Cryptocurrency Platform.
+
+- <a  href="https://tunnymedia.netlify.app/"> tunnytube</a> - A ReactJs Replica of Youtube
+
+- <a  href="https://tunnymarketplace.netlify.app/"> nft marketplace</a> - An nft marketplace
   
-- <a href="https://github.com/tunny17/ecommerce-store"> tunnystore </a>   - an ecommerce app for restaurants to make ordering food easier.
-
-- <a  href="https://tunnymarketplace.netlify.app/"> nft marketplace</a> - a frontend template for an nft marketplace
-  
-- <a  href="https://github.com/tunny17/construction"> Spaceville </a> - a landing page for a construction company
-
-
+- <a  href="https://github.com/tunny17/construction"> Spaceville </a> - A Simple ReactJs Landing Page 
 
 </div>
 
