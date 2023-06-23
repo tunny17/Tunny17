@@ -58,19 +58,19 @@
 
 <h2>My Favourite Projects</h2>
 
-- <a href="https://tunny.netlify.app/"> portfolio</a>  - My Portfolio
+- <a href="https://tunny.netlify.app/"> Portfolio</a>  - My Portfolio
 
 - <a href="https://shopmora-co.netlify.app/"> ShopMora </a> - A Fashion Store made with ReactJs
 
-- <a href="https://akinmade.netlify.app/"> photo gallery</a>  - A Simple Photo-Gallery
+- <a href="https://akinmade.netlify.app/"> Photo gallery</a>  - A Simple Photo-Gallery
 
-- <a href="https://github.com/tunny17/ecommerce-store"> tunnystore </a>   - A Fullstack NextJs Ecommerce App.
+- <a href="https://github.com/tunny17/ecommerce-store"> Tunnystore </a>   - A Fullstack NextJs Ecommerce App.
 
-- <a href="https://github.com/tunny17/cryptoverse"> cryptoverse</a>  - A ReactJs Cryptocurrency Platform.
+- <a href="https://github.com/tunny17/cryptoverse"> Cryptoverse</a>  - A ReactJs Cryptocurrency Platform.
 
-- <a  href="https://tunnymedia.netlify.app/"> tunnytube</a> - A ReactJs Replica of Youtube
+- <a  href="https://tunnymedia.netlify.app/"> Tunnytube</a> - A ReactJs Replica of Youtube
 
-- <a  href="https://tunnymarketplace.netlify.app/"> nft marketplace</a> - An nft marketplace
+- <a  href="https://tunnymarketplace.netlify.app/"> NFT marketplace</a> - An nft marketplace
   
 - <a  href="https://github.com/tunny17/construction"> Spaceville </a> - A Simple ReactJs Landing Page 
 
