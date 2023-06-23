@@ -1,11 +1,24 @@
-<h1 align="left">Hey, I'm Adetunji, a Frontend Developer.</h1>
+<h1 align="center">Hi 👋, I'm Adetunji</h1>
+<h3 align="center">A passionate Frontend Web developer from Lagos, Nigeria. &#127470;&#127475</h3>
 
-🔭 I’m currently working as a freelance Frontend Developer. <br />
-🌱 I’m currently learning about Typescript and it's applications. <br />
-🤔 I’m looking for help with real-world project opportunities. <br />
-💬 Ask me just about anything. I am happy to help. <br />
-📫 How to reach me: tvnji01@gmail.com <br />
-⚡ Fun fact: Everytime you paint a room, it gets a little bit smaller. <br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tunny17&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+- 🔭 I’m currently working as a freelance Frontend Developer.
+
+- 🌱 I’m currently learning about Typescript and it's applications.
+
+- 🤝 I’m available for freelancing.
+
+- 💬 Ask me about **Reactjs & NextJs**
+
+- 📫 How to reach me **tvnji01@gmail.com**
+
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/11V7Ge0x6a8ALjSCJDifR3l-uqw7KThhu/edit?usp=sharing&ouid=109709102863244755606&rtpof=true&sd=true" target="blank">Resume</a>
+<br/>
 
 ## Connect with me  
 <div align="center">
