@@ -18,7 +18,8 @@
 - 📄 Know about my experiences <a href="https://docs.google.com/document/d/11V7Ge0x6a8ALjSCJDifR3l-uqw7KThhu/edit?usp=sharing&ouid=109709102863244755606&rtpof=true&sd=true" target="blank">Resume</a>
 <br/>
 
-## Connect with me  
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
 <div align="center">
 <a href="[https://github.com/rishavanand](https://github.com/tunny17)" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
