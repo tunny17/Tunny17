@@ -1,11 +1,11 @@
 <h1 align="left">Hey, I'm Adetunji, a Frontend Developer.</h1>
 
-🔭 I’m currently working as a freelance Frontend Developer.
-🌱 I’m currently learning about Typescript and it's applications.
-🤔 I’m looking for help with real-world project opportunities.
-💬 Ask me just about anything. I am happy to help.
-📫 How to reach me: tvnji01@gmail.com
-⚡ Fun fact: Everytime you paint a room, it gets a little bit smaller.
+🔭 I’m currently working as a freelance Frontend Developer. <br />
+🌱 I’m currently learning about Typescript and it's applications. <br />
+🤔 I’m looking for help with real-world project opportunities. <br />
+💬 Ask me just about anything. I am happy to help. <br />
+📫 How to reach me: tvnji01@gmail.com <br />
+⚡ Fun fact: Everytime you paint a room, it gets a little bit smaller. <br />
 
 ## Connect with me  
 <div align="center">
