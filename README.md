@@ -1,5 +1,11 @@
-<h1 align="left">Hey, I'm Tunji.</h1>
-<h4 align="left">I live in Nigeria, I like music, good food, basketball and coding.</h4>
+<h1 align="left">Hey, I'm Adetunji, a Frontend Developer.</h1>
+
+🔭 I’m currently working as a freelance Frontend Developer.
+🌱 I’m currently learning about Typescript and it's applications.
+🤔 I’m looking for help with real-world project opportunities.
+💬 Ask me just about anything. I am happy to help.
+📫 How to reach me: tvnji01@gmail.com
+⚡ Fun fact: Everytime you paint a room, it gets a little bit smaller.
 
 ## Connect with me  
 <div align="center">
